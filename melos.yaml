@@ -1,0 +1,5 @@
+name: expandable_datatable_workspace
+
+packages:
+  - apps/**
+  - packages/**
